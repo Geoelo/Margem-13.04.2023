@@ -1,0 +1,21 @@
+.nav{
+    margin: 25px 50px 75px 100px;
+    border: 1px solid;
+background-color: aquamarine;
+
+}
+.section{
+    margin: 25px 50px 75px ;
+    border: 1px solid;
+    background-color: darkgreen;
+}
+.article{
+    margin: 25px 50px;
+    border: 3px solid rebeccapurple;
+    background-color: burlywood;
+} 
+.footer{
+    border: 3px solid royalblue;
+    width: 300px;
+    margin: auto;
+}
